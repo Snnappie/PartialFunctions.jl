@@ -11,7 +11,7 @@
 # and with all your mind.                                                      #
 ################################################################################
 
-module PartialFunction
+module PartialFunctions
 
 export @partial,
        @pf
